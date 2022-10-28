@@ -117,6 +117,7 @@ public class Generator {
                 correctParams = true;
             }
             int length =0;
+            // hi
             System.out.println("Great! Now enter the length of the password");
             if(!keyboard.hasNextInt()){
                 System.err.println(" length of the password should be number" );
